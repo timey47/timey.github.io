@@ -1,0 +1,64 @@
+body {
+    
+    font-family: Arial, Helvetica, sans-serif;
+    background: #F2E6D8;
+    
+}
+
+.assignment{
+
+    display:flex;
+    padding: 10px;
+    margin: 10px;
+    background:#F2CA50;
+    border-radius: 5px;
+
+
+
+}
+
+
+
+.assignment img{
+    width: 200px;
+    margin: 10px; ;
+    border: 4px dashed white;
+
+
+}
+
+.assignment img:hover{
+    border: 4px dashed #F24405;
+    
+
+}
+
+
+
+h1{
+
+    text-align: center;
+    color: #402318;
+
+
+
+}
+
+h1:hover{
+
+    color: #F24405;
+
+
+
+}
+
+a{
+    text-decoration: none;
+    color: white;
+
+}
+
+a:hover {
+
+    color: #F24405;
+}
