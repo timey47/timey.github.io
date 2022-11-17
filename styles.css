@@ -1,0 +1,85 @@
+body {
+    
+    font-family: Arial, Helvetica, sans-serif; 
+    background: #F2E6D8;
+
+    
+
+    
+}
+.assignments {
+
+    display:flex;
+    flex-wrap: wrap;
+}
+.assignments{
+    text-align: center;
+}
+
+.assignment{
+    width: 28%;
+    padding: 20px;
+    margin: 10px;
+    padding: 10px 10px;
+    background:#F2CA50;
+    border-radius: 50px;
+    display:block;
+    margin: auto;
+
+
+
+}
+
+
+
+.assignment img{
+    width: 100px;
+    margin: 10px;
+    margin-left: 15px;
+    border: 4px dashed white;
+    
+
+
+}
+
+.assignment img:hover{
+    border: 4px dashed #F24405;
+    
+
+}
+
+
+
+
+h1{
+
+    text-align:center;
+    color: #402318;
+
+
+
+}
+
+h1:hover{
+
+    color: #F24405;
+
+
+
+}
+
+h2{
+
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+
+}
+
+a:hover {
+
+    color: #F24405;
+}
